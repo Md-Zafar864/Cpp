@@ -19,6 +19,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Md-Zafar864/Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0724-find-pivot-index](https://github.com/Md-Zafar864/Cpp/tree/main/0724-find-pivot-index/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,8 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Md-Zafar864/Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Md-Zafar864/Cpp/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
