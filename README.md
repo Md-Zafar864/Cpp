@@ -9,6 +9,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0525-contiguous-array](https://github.com/Md-Zafar864/Cpp/tree/main/0525-contiguous-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Md-Zafar864/Cpp/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0525-contiguous-array](https://github.com/Md-Zafar864/Cpp/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/Md-Zafar864/Cpp/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Md-Zafar864/Cpp/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Md-Zafar864/Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -40,5 +42,6 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0525-contiguous-array](https://github.com/Md-Zafar864/Cpp/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/Md-Zafar864/Cpp/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Md-Zafar864/Cpp/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Md-Zafar864/Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
