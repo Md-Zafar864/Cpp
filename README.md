@@ -15,6 +15,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,8 +56,10 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
