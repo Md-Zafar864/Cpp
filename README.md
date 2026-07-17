@@ -57,6 +57,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
+| [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Zafar864/Cpp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
@@ -64,4 +65,16 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
