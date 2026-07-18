@@ -29,6 +29,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0238-product-of-array-except-self](https://github.com/Md-Zafar864/Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/Md-Zafar864/Cpp/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/Md-Zafar864/Cpp/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/Md-Zafar864/Cpp/tree/main/0739-daily-temperatures/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Md-Zafar864/Cpp/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Md-Zafar864/Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -56,6 +57,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Md-Zafar864/Cpp/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Zafar864/Cpp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -72,6 +74,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Md-Zafar864/Cpp/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
