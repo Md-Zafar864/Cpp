@@ -6,6 +6,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0525-contiguous-array](https://github.com/Md-Zafar864/Cpp/tree/main/0525-contiguous-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -13,6 +14,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Zafar864/Cpp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -80,4 +82,12 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
