@@ -8,6 +8,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Md-Zafar864/Cpp/tree/main/0525-contiguous-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Md-Zafar864/Cpp/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -29,6 +30,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Md-Zafar864/Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Md-Zafar864/Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Md-Zafar864/Cpp/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/Md-Zafar864/Cpp/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Md-Zafar864/Cpp/tree/main/0739-daily-temperatures/) | Medium |
@@ -59,6 +61,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Md-Zafar864/Cpp/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
@@ -76,6 +79,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Md-Zafar864/Cpp/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
