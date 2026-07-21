@@ -20,6 +20,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Zafar864/Cpp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2942-find-words-containing-character](https://github.com/Md-Zafar864/Cpp/tree/main/2942-find-words-containing-character/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0930-binary-subarrays-with-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Md-Zafar864/Cpp/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Md-Zafar864/Cpp/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Md-Zafar864/Cpp/tree/main/2942-find-words-containing-character/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
