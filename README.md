@@ -16,6 +16,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
+| [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Zafar864/Cpp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -64,6 +65,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Md-Zafar864/Cpp/tree/main/0739-daily-temperatures/) | Medium |
@@ -83,6 +85,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Md-Zafar864/Cpp/tree/main/0739-daily-temperatures/) | Medium |
@@ -99,4 +102,8 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
