@@ -21,6 +21,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Zafar864/Cpp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/Md-Zafar864/Cpp/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Md-Zafar864/Cpp/tree/main/2423-remove-letter-to-equalize-frequency/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Md-Zafar864/Cpp/tree/main/2942-find-words-containing-character/) | Easy |
@@ -74,6 +75,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Md-Zafar864/Cpp/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Md-Zafar864/Cpp/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/Md-Zafar864/Cpp/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
