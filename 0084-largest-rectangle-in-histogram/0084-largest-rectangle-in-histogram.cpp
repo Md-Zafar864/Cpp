@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> nse(vector<int> &arr){
+    vector<int> nse(vector<int> arr){
         int n=arr.size();
         vector<int> v(n);
         stack<int> st;
@@ -19,7 +19,7 @@ public:
         }
         return v;
     }
-    vector<int> pse(vector<int> &arr){
+    vector<int> pse(vector<int> arr){
         int n=arr.size();
         vector<int> v(n);
         stack<int> st;
