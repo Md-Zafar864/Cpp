@@ -34,6 +34,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Md-Zafar864/Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Md-Zafar864/Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Md-Zafar864/Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -68,6 +69,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Md-Zafar864/Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -89,6 +91,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Md-Zafar864/Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0503-next-greater-element-ii/) | Medium |
