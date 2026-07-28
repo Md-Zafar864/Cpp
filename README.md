@@ -35,6 +35,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Md-Zafar864/Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Md-Zafar864/Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Md-Zafar864/Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Md-Zafar864/Cpp/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
@@ -54,6 +55,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Md-Zafar864/Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Md-Zafar864/Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Md-Zafar864/Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
@@ -94,6 +97,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Md-Zafar864/Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -123,4 +127,8 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Md-Zafar864/Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
