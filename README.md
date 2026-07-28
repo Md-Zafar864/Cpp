@@ -131,4 +131,8 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Md-Zafar864/Cpp/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
