@@ -127,6 +127,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Md-Zafar864/Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0326-power-of-three](https://github.com/Md-Zafar864/Cpp/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/Md-Zafar864/Cpp/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
