@@ -16,6 +16,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Md-Zafar864/Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -68,6 +69,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Md-Zafar864/Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
