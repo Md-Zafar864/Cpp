@@ -149,4 +149,8 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/Md-Zafar864/Cpp/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
