@@ -35,6 +35,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Md-Zafar864/Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Md-Zafar864/Cpp/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Md-Zafar864/Cpp/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Md-Zafar864/Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -112,6 +113,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Md-Zafar864/Cpp/tree/main/0078-subsets/) | Medium |
 | [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -153,4 +155,5 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/Md-Zafar864/Cpp/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/Md-Zafar864/Cpp/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
