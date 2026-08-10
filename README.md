@@ -35,6 +35,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Md-Zafar864/Cpp/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Md-Zafar864/Cpp/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Md-Zafar864/Cpp/tree/main/0078-subsets/) | Medium |
@@ -158,6 +159,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Md-Zafar864/Cpp/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Md-Zafar864/Cpp/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Md-Zafar864/Cpp/tree/main/0078-subsets/) | Medium |
