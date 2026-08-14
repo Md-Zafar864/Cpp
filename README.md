@@ -16,6 +16,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Md-Zafar864/Cpp/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/Md-Zafar864/Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/Md-Zafar864/Cpp/tree/main/0402-remove-k-digits/) | Medium |
@@ -140,6 +141,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Md-Zafar864/Cpp/tree/main/0022-generate-parentheses/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
@@ -158,9 +160,14 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Md-Zafar864/Cpp/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Md-Zafar864/Cpp/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Md-Zafar864/Cpp/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Md-Zafar864/Cpp/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Md-Zafar864/Cpp/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Md-Zafar864/Cpp/tree/main/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Md-Zafar864/Cpp/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
