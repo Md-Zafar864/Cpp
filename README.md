@@ -74,6 +74,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Md-Zafar864/Cpp/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0344-reverse-string](https://github.com/Md-Zafar864/Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
@@ -174,5 +175,6 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Md-Zafar864/Cpp/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Md-Zafar864/Cpp/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
