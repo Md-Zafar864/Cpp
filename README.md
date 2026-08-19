@@ -6,6 +6,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Md-Zafar864/Cpp/tree/main/0141-linked-list-cycle/) | Easy |
 | [0389-find-the-difference](https://github.com/Md-Zafar864/Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Md-Zafar864/Cpp/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Md-Zafar864/Cpp/tree/main/0496-next-greater-element-i/) | Easy |
@@ -75,6 +76,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Md-Zafar864/Cpp/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Md-Zafar864/Cpp/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/Md-Zafar864/Cpp/tree/main/0344-reverse-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Md-Zafar864/Cpp/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
@@ -176,5 +178,10 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Md-Zafar864/Cpp/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Md-Zafar864/Cpp/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Md-Zafar864/Cpp/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Md-Zafar864/Cpp/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
