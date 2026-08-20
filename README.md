@@ -137,6 +137,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Md-Zafar864/Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Md-Zafar864/Cpp/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0326-power-of-three](https://github.com/Md-Zafar864/Cpp/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
@@ -145,6 +146,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Md-Zafar864/Cpp/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/Md-Zafar864/Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Md-Zafar864/Cpp/tree/main/0085-maximal-rectangle/) | Hard |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
@@ -160,6 +162,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Md-Zafar864/Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
