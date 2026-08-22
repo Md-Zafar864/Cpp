@@ -142,6 +142,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | [0326-power-of-three](https://github.com/Md-Zafar864/Cpp/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Md-Zafar864/Cpp/tree/main/2235-add-two-integers/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Md-Zafar864/Cpp/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
