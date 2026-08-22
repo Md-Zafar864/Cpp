@@ -156,6 +156,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Md-Zafar864/Cpp/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Md-Zafar864/Cpp/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Md-Zafar864/Cpp/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Md-Zafar864/Cpp/tree/main/0509-fibonacci-number/) | Easy |
@@ -182,6 +183,7 @@ A curated collection of DSA problems with solutions in C++ covering arrays, tree
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Md-Zafar864/Cpp/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Md-Zafar864/Cpp/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Md-Zafar864/Cpp/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Md-Zafar864/Cpp/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
